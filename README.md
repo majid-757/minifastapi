@@ -1,1 +1,1 @@
-mini project With fastapi
+mini project with fastapi
